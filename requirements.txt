@@ -1,0 +1,9 @@
+langchain-community  # langchain hub
+langchain-text-splitters   #data chunking 
+langchain-ollama  # embedding model
+langchain-groq   # groq with langchain
+langgraph  # agent framework
+chromadb  # vector db
+pypdf  # to load pdf file 
+python-dotenv   # to laod groq api
+ipykernel   # for jupyuter notebook

@@ -1,0 +1,380 @@
+{
+  "title": "Medical PDF Question Bank",
+  "source_file": "text_medical(7).pdf",
+  "description": "Questions and answers based on the uploaded 56-page medical/community-health document. This is a study dataset, not medical advice.",
+  "count": 62,
+  "questions": [
+    {
+      "id": "Q001",
+      "category": "Introduction",
+      "question": "What is a village health worker?",
+      "answer": "A person who helps guide family members and neighbors toward better health and supports the well-being of the community."
+    },
+    {
+      "id": "Q002",
+      "category": "Introduction",
+      "question": "What is the first responsibility of a health worker?",
+      "answer": "To share health knowledge and teach people how to prevent and manage common health problems."
+    },
+    {
+      "id": "Q003",
+      "category": "Introduction",
+      "question": "Why is compassion important in health work?",
+      "answer": "People should be treated with kindness, dignity, and respect; emotional support can be very important to sick people and their families."
+    },
+    {
+      "id": "Q004",
+      "category": "Community Health",
+      "question": "How should a health worker respond to harmful traditional practices?",
+      "answer": "Address them carefully and respectfully, explaining why a safer approach may be better rather than simply telling people they are wrong."
+    },
+    {
+      "id": "Q005",
+      "category": "Professional Responsibility",
+      "question": "Why must a health worker know their limits?",
+      "answer": "They should do only what they have learned and can perform safely, avoiding procedures for which they are not properly trained."
+    },
+    {
+      "id": "Q006",
+      "category": "Professional Responsibility",
+      "question": "Why should health workers continue learning?",
+      "answer": "Ongoing study and learning from experts help them improve their skills and provide useful, up-to-date guidance."
+    },
+    {
+      "id": "Q007",
+      "category": "Professional Responsibility",
+      "question": "Why should health workers practice what they teach?",
+      "answer": "People often learn more from actions than words, so health workers should set a good example."
+    },
+    {
+      "id": "Q008",
+      "category": "Community Assessment",
+      "question": "What is the difference between felt needs and real needs?",
+      "answer": "Felt needs are problems people believe are important; real needs are the steps actually required to solve the problem in a lasting way."
+    },
+    {
+      "id": "Q009",
+      "category": "Community Assessment",
+      "question": "What four factors should be considered before starting a community project?",
+      "answer": "Felt needs, real needs, people's willingness to act, and available resources such as people, skills, materials, and money."
+    },
+    {
+      "id": "Q010",
+      "category": "Community Assessment",
+      "question": "What community conditions should be assessed when studying health needs?",
+      "answer": "Housing, sanitation, education, population, nutrition, water safety, food protection, health services, and common illnesses and injuries."
+    },
+    {
+      "id": "Q011",
+      "category": "Community Health",
+      "question": "Why are local resources useful for community health projects?",
+      "answer": "They are often more affordable, dependable, sustainable, and appropriate for local needs."
+    },
+    {
+      "id": "Q012",
+      "category": "Community Health",
+      "question": "Why should communities start new ideas with small experiments?",
+      "answer": "Small experiments reduce risk and help people learn from successes and failures before expanding an approach."
+    },
+    {
+      "id": "Q013",
+      "category": "Disease Prevention",
+      "question": "How can poor sanitation contribute to diarrhea?",
+      "answer": "Poor sanitation and hygiene can help infections spread; clean practices and suitable latrines can reduce the risk."
+    },
+    {
+      "id": "Q014",
+      "category": "Nutrition",
+      "question": "Why is malnutrition relevant to deaths from diarrhea in children?",
+      "answer": "Poorly nourished children may be less able to fight infection, so preventing malnutrition is also important."
+    },
+    {
+      "id": "Q015",
+      "category": "Community Health",
+      "question": "How does the book describe health beyond the absence of disease?",
+      "answer": "Health includes physical, mental, and social well-being."
+    },
+    {
+      "id": "Q016",
+      "category": "Disease Prevention",
+      "question": "Why should treatment and prevention be balanced?",
+      "answer": "People need relief from current illness while also learning how to prevent future illness; both approaches support each other."
+    },
+    {
+      "id": "Q017",
+      "category": "Medicines",
+      "question": "Why can unnecessary medicine use be harmful?",
+      "answer": "It can waste money, cause side effects, encourage dependence, and contribute to antibiotic resistance."
+    },
+    {
+      "id": "Q018",
+      "category": "Medicines",
+      "question": "Do antibiotics treat common colds caused by viruses?",
+      "answer": "No. Antibiotics do not work against viral illnesses such as common colds and flu."
+    },
+    {
+      "id": "Q019",
+      "category": "Care and Treatment",
+      "question": "What does the text identify as an important part of care for childhood diarrhea?",
+      "answer": "Providing enough fluids and continuing to feed the child; serious or persistent symptoms require medical assessment."
+    },
+    {
+      "id": "Q020",
+      "category": "Medicines",
+      "question": "Why is antibiotic resistance a concern?",
+      "answer": "Frequent or inappropriate antibiotic use can make bacteria harder to treat, reducing the effectiveness of important medicines."
+    },
+    {
+      "id": "Q021",
+      "category": "Disease Types",
+      "question": "What is the difference between infectious and non-infectious diseases?",
+      "answer": "Infectious diseases are caused by organisms such as bacteria, viruses, fungi, or parasites and can spread; non-infectious diseases do not spread from person to person."
+    },
+    {
+      "id": "Q022",
+      "category": "Disease Types",
+      "question": "Name four types of organisms that can cause infectious diseases.",
+      "answer": "Bacteria, viruses, fungi, and parasites."
+    },
+    {
+      "id": "Q023",
+      "category": "Disease Types",
+      "question": "Do antibiotics work against most viral infections?",
+      "answer": "No. Antibiotics do not work against most viruses."
+    },
+    {
+      "id": "Q024",
+      "category": "Disease Types",
+      "question": "How can fungal infections such as ringworm spread?",
+      "answer": "They can spread through contact with infected skin or clothing."
+    },
+    {
+      "id": "Q025",
+      "category": "Disease Types",
+      "question": "How can malaria parasites spread to people?",
+      "answer": "Through mosquito bites."
+    },
+    {
+      "id": "Q026",
+      "category": "Diagnosis",
+      "question": "Why can similar symptoms require different diagnoses?",
+      "answer": "Different diseases can look alike but have different causes and require different treatments; examination and sometimes tests are needed."
+    },
+    {
+      "id": "Q027",
+      "category": "Examination",
+      "question": "What is the difference between a symptom and a sign?",
+      "answer": "A symptom is what the person feels and reports; a sign is something observed during examination."
+    },
+    {
+      "id": "Q028",
+      "category": "Examination",
+      "question": "What questions should be asked about a person's main health problem?",
+      "answer": "Ask what is troubling them, what makes it better or worse, when it began, whether it happened before, and whether others nearby have similar problems."
+    },
+    {
+      "id": "Q029",
+      "category": "Examination",
+      "question": "What can pale lips or eyelids suggest according to the text?",
+      "answer": "They may suggest anemia."
+    },
+    {
+      "id": "Q030",
+      "category": "Examination",
+      "question": "What can yellow skin and eyes suggest?",
+      "answer": "They suggest jaundice, which may be related to liver or gallbladder disease, among other causes."
+    },
+    {
+      "id": "Q031",
+      "category": "Examination",
+      "question": "Why should breathing be observed carefully?",
+      "answer": "Breathing rate, depth, sounds, and difficulty can provide clues about illness and how serious it may be."
+    },
+    {
+      "id": "Q032",
+      "category": "Examination",
+      "question": "What is the usual resting pulse range stated for adults in the book?",
+      "answer": "The book states 60 to 80 beats per minute for adults at rest."
+    },
+    {
+      "id": "Q033",
+      "category": "Examination",
+      "question": "What may a weak and rapid pulse indicate?",
+      "answer": "It may indicate shock."
+    },
+    {
+      "id": "Q034",
+      "category": "Examination",
+      "question": "Why should objects never be inserted into the ear?",
+      "answer": "Sticks, wires, and other hard objects can injure the ear."
+    },
+    {
+      "id": "Q035",
+      "category": "Examination",
+      "question": "What may a very hard abdomen indicate?",
+      "answer": "It may indicate a serious condition such as appendicitis or peritonitis and needs urgent medical assessment."
+    },
+    {
+      "id": "Q036",
+      "category": "Examination",
+      "question": "What may sudden facial weakness indicate?",
+      "answer": "It may be associated with head injury, stroke, or Bell's palsy; urgent medical assessment may be needed."
+    },
+    {
+      "id": "Q037",
+      "category": "Care and Treatment",
+      "question": "Why should a very weak person who cannot move be repositioned?",
+      "answer": "Changing position several times a day helps prevent bed sores and may help reduce the risk of pneumonia."
+    },
+    {
+      "id": "Q038",
+      "category": "Care and Treatment",
+      "question": "What should be monitored in a seriously ill person?",
+      "answer": "Changes in condition, vital signs, fluid intake, urination, and bowel movements should be recorded and shared with health workers."
+    },
+    {
+      "id": "Q039",
+      "category": "Emergency Signs",
+      "question": "Name some danger signs that require immediate medical help.",
+      "answer": "Examples include severe breathing difficulty, unconsciousness, heavy bleeding, blue lips or nails, severe continuous abdominal pain, or repeated convulsions with fever."
+    },
+    {
+      "id": "Q040",
+      "category": "Care and Treatment",
+      "question": "What should a caregiver do if a sick person can drink only small amounts?",
+      "answer": "Offer small sips frequently and monitor fluid intake; seek medical help when danger signs or severe dehydration are present."
+    },
+    {
+      "id": "Q041",
+      "category": "Care and Treatment",
+      "question": "Why is cleanliness important when caring for a sick person?",
+      "answer": "Clean skin, clothes, sheets, and bedding help maintain comfort and reduce contamination risks."
+    },
+    {
+      "id": "Q042",
+      "category": "Infant Health",
+      "question": "What does a sunken soft spot on a baby’s head indicate in the text?",
+      "answer": "It may be a sign of dehydration, which requires prompt attention and appropriate fluids or medical care."
+    },
+    {
+      "id": "Q043",
+      "category": "Infant Health",
+      "question": "What might a bulging soft spot on a baby’s head indicate?",
+      "answer": "The text identifies it as a possible sign of meningitis, a serious condition requiring immediate medical help."
+    },
+    {
+      "id": "Q044",
+      "category": "Infant Health",
+      "question": "Why is breastfeeding described as beneficial?",
+      "answer": "The text says breast milk provides nutrition and protection against infection."
+    },
+    {
+      "id": "Q045",
+      "category": "Home Remedies",
+      "question": "What is one warning about home remedies?",
+      "answer": "A remedy is not necessarily safe or effective simply because many people use it; some remedies can be harmful or delay proper care."
+    },
+    {
+      "id": "Q046",
+      "category": "Home Remedies",
+      "question": "Why are remedies involving human or animal waste dangerous?",
+      "answer": "They can cause serious infections, including tetanus, and should not be used."
+    },
+    {
+      "id": "Q047",
+      "category": "Home Remedies",
+      "question": "What does the text say about serious illnesses and home remedies?",
+      "answer": "Serious conditions such as pneumonia, tetanus, typhoid, tuberculosis, appendicitis, and fever after childbirth require prompt modern medical care."
+    },
+    {
+      "id": "Q048",
+      "category": "Beliefs and Health",
+      "question": "How can fear and belief affect health according to the text?",
+      "answer": "Strong fear or belief can affect stress and physical symptoms, while reassurance and understanding may help reduce fear."
+    },
+    {
+      "id": "Q049",
+      "category": "Emergency Care",
+      "question": "Why should a poisonous snakebite not be treated only with traditional remedies?",
+      "answer": "Traditional remedies cannot replace proper medical treatment; poisonous snakebites usually require antivenom and urgent medical care."
+    },
+    {
+      "id": "Q050",
+      "category": "Care and Treatment",
+      "question": "What is the purpose of oral rehydration solution (ORS) in the text?",
+      "answer": "It is described as a way to help replace fluids when dehydration is a concern."
+    },
+    {
+      "id": "Q051",
+      "category": "Nutrition",
+      "question": "What are some possible causes of malnutrition mentioned in the book?",
+      "answer": "Lack of knowledge about feeding, insufficient land or income, unfair resource distribution, poor farming practices, large family size, misuse of money, and lack of planning."
+    },
+    {
+      "id": "Q052",
+      "category": "Nutrition",
+      "question": "Why should a community examine food production and land use?",
+      "answer": "Food production and land use affect whether families have enough food now and in the future."
+    },
+    {
+      "id": "Q053",
+      "category": "Nutrition",
+      "question": "What is one way communities can improve food security?",
+      "answer": "Examples include family gardens, improved farming methods, crop rotation, irrigation, fish farming, composting, and better crop storage."
+    },
+    {
+      "id": "Q054",
+      "category": "Community Health",
+      "question": "Why is fair distribution of resources discussed as a health issue?",
+      "answer": "Access to land, food, and wealth can affect nutrition, family security, and overall health."
+    },
+    {
+      "id": "Q055",
+      "category": "Professional Responsibility",
+      "question": "How should a health worker treat people regardless of income?",
+      "answer": "They should treat everyone with dignity and should not refuse care to someone because they are poor."
+    },
+    {
+      "id": "Q056",
+      "category": "Community Health",
+      "question": "Why should community health workers understand local beliefs?",
+      "answer": "Respecting beliefs helps build trust and makes it easier to discuss safer health practices and encourage change."
+    },
+    {
+      "id": "Q057",
+      "category": "Diagnosis",
+      "question": "What should be done when symptoms are serious or unclear?",
+      "answer": "Seek help from a trained health worker or doctor; special tests may be needed."
+    },
+    {
+      "id": "Q058",
+      "category": "Examination",
+      "question": "Why is recording findings useful during examination?",
+      "answer": "Records help communicate observations to another health worker and support assessment of the person's condition."
+    },
+    {
+      "id": "Q059",
+      "category": "Examination",
+      "question": "What can rapid or difficult breathing suggest?",
+      "answer": "It may indicate a lung illness or another serious problem and should be assessed in context, especially if breathing is severely difficult."
+    },
+    {
+      "id": "Q060",
+      "category": "Digestive Health",
+      "question": "What is one way to help prevent constipation described in the book?",
+      "answer": "Drink enough water and eat fiber-rich foods such as whole grains, fruits, and vegetables."
+    },
+    {
+      "id": "Q061",
+      "category": "Digestive Health",
+      "question": "Why should enemas and laxatives be used cautiously?",
+      "answer": "The text warns they can cause harm in some conditions, including severe abdominal pain, dehydration, and illness in young children."
+    },
+    {
+      "id": "Q062",
+      "category": "Summary",
+      "question": "What is the book's overall message about community health?",
+      "answer": "Improving health requires education, compassion, prevention, appropriate treatment, local cooperation, and attention to social and economic causes."
+    }
+  ]
+}
